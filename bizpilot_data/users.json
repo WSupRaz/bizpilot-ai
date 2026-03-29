@@ -1,0 +1,52 @@
+[
+  {
+    "id": "u1",
+    "name": "Rajan Sharma",
+    "phone": "9826000001",
+    "role": "Owner",
+    "department": "Management",
+    "password": "43a0d17178a9d26c9e0fe9a74b0b45e38d32f27aed887a008a54bf6e033bf7b9",
+    "active": true,
+    "preferred_language": "English"
+  },
+  {
+    "id": "u2",
+    "name": "Vikram Singh",
+    "phone": "9826000002",
+    "role": "Manager",
+    "department": "Operations",
+    "password": "866485796cfa8d7c0cf7111640205b83076433547577511d81f8030ae99ecea5",
+    "active": true,
+    "preferred_language": "Hindi"
+  },
+  {
+    "id": "u3",
+    "name": "Amit Patel",
+    "phone": "9826000003",
+    "role": "Employee",
+    "department": "Sales",
+    "password": "e03d3ec8d5035f8721f5dc64546e59ed790dbcb3b7b598fe57057ccd7b683b00",
+    "active": true,
+    "preferred_language": "Hindi"
+  },
+  {
+    "id": "u4",
+    "name": "Sunita Devi",
+    "phone": "9826000004",
+    "role": "Employee",
+    "department": "Storage",
+    "password": "e03d3ec8d5035f8721f5dc64546e59ed790dbcb3b7b598fe57057ccd7b683b00",
+    "active": true,
+    "preferred_language": "Hindi"
+  },
+  {
+    "id": "u5",
+    "name": "Rahul Joshi",
+    "phone": "9826000005",
+    "role": "Employee",
+    "department": "Purchase",
+    "password": "e03d3ec8d5035f8721f5dc64546e59ed790dbcb3b7b598fe57057ccd7b683b00",
+    "active": true,
+    "preferred_language": "Hindi"
+  }
+]

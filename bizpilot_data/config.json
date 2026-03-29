@@ -1,0 +1,17 @@
+{
+  "business_name": "My Business",
+  "business_type": "Manufacturing / Distribution",
+  "products": [
+    "Wheat Flour (Atta)",
+    "Semolina (Suji)",
+    "Maida"
+  ],
+  "currency": "₹",
+  "language": "English",
+  "owner_name": "Owner",
+  "city": "Indore",
+  "api_key": "",
+  "ai_model": "openai/gpt-4o-mini",
+  "target_daily_sales": 50000,
+  "target_daily_production": 200
+}

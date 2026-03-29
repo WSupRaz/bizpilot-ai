@@ -1,0 +1,26 @@
+{
+  "Sales": {
+    "morning": "🌅 Good morning {name}!\n\nToday's Sales Targets:\n• Target: ₹{target} sales\n• Follow ups: {followups} pending\n• Report back by 7 PM 💪",
+    "morning_hi": "🌅 शुभ प्रभात {name}!\n\nआज के लक्ष्य:\n• बिक्री लक्ष्य: ₹{target}\n• फॉलो-अप: {followups} बाकी\n\nशाम 7 बजे रिपोर्ट करें 💪",
+    "evening": "📊 Evening Sales Report\n\nPlease reply:\n• Today's sales (₹)\n• Orders received\n• Orders delivered\n• Customer issues\n• Tomorrow's priority",
+    "evening_hi": "📊 शाम की बिक्री रिपोर्ट\n\nकृपया बताएं:\n• आज की बिक्री (₹)\n• ऑर्डर मिले\n• ऑर्डर डिलीवर\n• कोई समस्या\n• कल की प्राथमिकता"
+  },
+  "Purchase": {
+    "morning": "🌅 Good morning {name}!\n\nToday's Purchase Tasks:\n• Check mandi rates\n• Confirm supplier orders\n• Review stock needs\n\nSend rate update by 10 AM.",
+    "morning_hi": "🌅 शुभ प्रभात {name}!\n\nआज के कार्य:\n• मंडी भाव जांचें\n• सप्लायर ऑर्डर कन्फर्म\n• स्टॉक ज़रूरतें देखें",
+    "evening": "📊 Evening Purchase Report\n\nPlease reply:\n• Mandi rate (₹/quintal)\n• Wheat purchased (qtl)\n• Amount paid (₹)\n• Supplier issues",
+    "evening_hi": "📊 शाम की खरीद रिपोर्ट\n\nकृपया बताएं:\n• मंडी भाव (₹/क्विंटल)\n• खरीदा गेहूँ (क्विंटल)\n• भुगतान (₹)\n• सप्लायर समस्या"
+  },
+  "Storage": {
+    "morning": "🌅 Good morning {name}!\n\nMorning Stock Check:\n• Count all product stock\n• Check machinery\n• Report damage/issues\n\nSend by 9:30 AM.",
+    "morning_hi": "🌅 शुभ प्रभात {name}!\n\nसुबह स्टॉक जाँच:\n• स्टॉक गिनें\n• मशीनरी जाँचें\n\nसुबह 9:30 बजे भेजें।",
+    "evening": "📊 Evening Inventory\n\nPlease reply:\n• Atta stock (bags)\n• Suji stock (bags)\n• Maida stock (bags)\n• Production today\n• Low stock alerts",
+    "evening_hi": "📊 शाम की इन्वेंटरी\n\nकृपया बताएं:\n• आटा स्टॉक (बोरे)\n• सूजी स्टॉक\n• मैदा स्टॉक\n• आज का उत्पादन"
+  },
+  "Operations": {
+    "morning": "🌅 Good morning {name}!\n\nOps Checklist:\n• Machine startup check\n• Staff attendance\n• Today's production plan\n\nConfirm by 9 AM.",
+    "morning_hi": "🌅 शुभ प्रभात {name}!\n\nऑपरेशन चेकलिस्ट:\n• मशीन जाँच\n• स्टाफ उपस्थिति\n• प्रोडक्शन योजना",
+    "evening": "📊 Ops Summary\n\nPlease reply:\n• Production output (units)\n• Machine downtime (hrs)\n• Staff issues\n• Maintenance needed\n• Rating (1-10)",
+    "evening_hi": "📊 ऑपरेशन सारांश\n\nकृपया बताएं:\n• उत्पादन आउटपुट\n• मशीन डाउनटाइम\n• स्टाफ समस्याएं\n• रेटिंग (1-10)"
+  }
+}

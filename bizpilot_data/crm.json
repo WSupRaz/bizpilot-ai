@@ -1,0 +1,67 @@
+[
+  {
+    "id": "crm1",
+    "name": "Ramesh Agarwal",
+    "phone": "9800011111",
+    "requirement": "50 bags Atta weekly",
+    "status": "Converted",
+    "segment": "Bulk",
+    "last_contact": "2024-03-14",
+    "follow_up_date": "2024-03-21",
+    "notes": "Regular since 2022",
+    "created": "2024-01-10",
+    "comm_log": []
+  },
+  {
+    "id": "crm2",
+    "name": "Sunita Bakery",
+    "phone": "9977001122",
+    "requirement": "Maida 200kg/month",
+    "status": "Follow-up",
+    "segment": "Retail",
+    "last_contact": "2024-03-05",
+    "follow_up_date": "2024-03-19",
+    "notes": "Interested in bulk discount",
+    "created": "2024-03-05",
+    "comm_log": []
+  },
+  {
+    "id": "crm3",
+    "name": "Sharma Traders",
+    "phone": "9012345678",
+    "requirement": "Mixed 100 bags",
+    "status": "Interested",
+    "segment": "Bulk",
+    "last_contact": "2024-03-18",
+    "follow_up_date": "2024-03-20",
+    "notes": "First WhatsApp inquiry",
+    "created": "2024-03-18",
+    "comm_log": []
+  },
+  {
+    "id": "crm4",
+    "name": "Priya Sweets",
+    "phone": "8888123456",
+    "requirement": "Suji 50kg weekly",
+    "status": "Converted",
+    "segment": "Retail",
+    "last_contact": "2024-03-13",
+    "follow_up_date": "2024-03-20",
+    "notes": "Festival bulk buyer",
+    "created": "2024-02-20",
+    "comm_log": []
+  },
+  {
+    "id": "crm5",
+    "name": "Mohan Kirana",
+    "phone": "9765432100",
+    "requirement": "Atta 20 bags/week",
+    "status": "Lost",
+    "segment": "Retail",
+    "last_contact": "2024-02-10",
+    "follow_up_date": null,
+    "notes": "Went with competitor",
+    "created": "2024-01-28",
+    "comm_log": []
+  }
+]

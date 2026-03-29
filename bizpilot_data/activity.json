@@ -1,0 +1,16 @@
+[
+  {
+    "id": "act_1774722939996",
+    "timestamp": "2026-03-29T00:05:39.996501",
+    "user": "Rajan Sharma",
+    "action": "Login",
+    "detail": "Role:Owner"
+  },
+  {
+    "id": "act_1774723032237",
+    "timestamp": "2026-03-29T00:07:12.237176",
+    "user": "Rajan Sharma",
+    "action": "Logout",
+    "detail": ""
+  }
+]

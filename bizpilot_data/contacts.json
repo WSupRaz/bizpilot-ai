@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c1",
+    "name": "Ramesh Agarwal",
+    "phone": "9800011111",
+    "role": "Customer",
+    "type": "customer",
+    "segment": "Bulk",
+    "assigned_manager": "Vikram Singh",
+    "preferred_language": "Hindi",
+    "active_status": true,
+    "last_contact": "2024-03-10",
+    "notes": "Regular bulk buyer"
+  },
+  {
+    "id": "c2",
+    "name": "Sharma Flour Depot",
+    "phone": "9800022222",
+    "role": "Distributor",
+    "type": "distributor",
+    "segment": "Distributor",
+    "assigned_manager": "Vikram Singh",
+    "preferred_language": "Hindi",
+    "active_status": true,
+    "last_contact": "2024-03-12",
+    "notes": "North zone"
+  },
+  {
+    "id": "c3",
+    "name": "Grain Masters Ltd",
+    "phone": "9800033333",
+    "role": "Supplier",
+    "type": "supplier",
+    "segment": null,
+    "assigned_manager": "Rahul Joshi",
+    "preferred_language": "English",
+    "active_status": true,
+    "last_contact": "2024-03-08",
+    "notes": "Primary wheat supplier"
+  }
+]

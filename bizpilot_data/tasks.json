@@ -1,0 +1,47 @@
+[
+  {
+    "id": "task_u3_2026-03-29",
+    "user_id": "u3",
+    "user_name": "Amit Patel",
+    "department": "Sales",
+    "date": "2026-03-29",
+    "morning_sent": false,
+    "morning_response": null,
+    "morning_response_time": null,
+    "evening_sent": false,
+    "evening_response": null,
+    "evening_response_time": null,
+    "status": "Pending",
+    "parsed_data": null
+  },
+  {
+    "id": "task_u4_2026-03-29",
+    "user_id": "u4",
+    "user_name": "Sunita Devi",
+    "department": "Storage",
+    "date": "2026-03-29",
+    "morning_sent": false,
+    "morning_response": null,
+    "morning_response_time": null,
+    "evening_sent": false,
+    "evening_response": null,
+    "evening_response_time": null,
+    "status": "Pending",
+    "parsed_data": null
+  },
+  {
+    "id": "task_u5_2026-03-29",
+    "user_id": "u5",
+    "user_name": "Rahul Joshi",
+    "department": "Purchase",
+    "date": "2026-03-29",
+    "morning_sent": false,
+    "morning_response": null,
+    "morning_response_time": null,
+    "evening_sent": false,
+    "evening_response": null,
+    "evening_response_time": null,
+    "status": "Pending",
+    "parsed_data": null
+  }
+]
