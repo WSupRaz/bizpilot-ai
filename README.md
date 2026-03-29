@@ -86,7 +86,8 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-(Add your login/dashboard screenshots here)
+<img width="886" height="608" alt="image" src="https://github.com/user-attachments/assets/3e075f0a-0eb0-4c5a-84ff-dd94b111de46" />
+
 
 ---
 
@@ -104,10 +105,3 @@ streamlit run app.py
 **Himanshu Patel**
 AI Automation & Gen AI Systems Builder
 
----
-
-## ⭐ Final Note
-
-This project represents a shift from building simple apps → building real AI-powered business systems.
-
-If you found this useful, consider giving it a ⭐
