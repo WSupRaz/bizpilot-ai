@@ -1,4 +1,4 @@
-🚀 BizPilot AI — AI Business Operating System
+# 🚀 BizPilot AI — AI Business Operating System
 
 BizPilot AI is a **production-ready AI system** designed to automate business operations including CRM, task management, reporting, and workflows.
 
@@ -6,13 +6,13 @@ BizPilot AI is a **production-ready AI system** designed to automate business op
 
 ---
 
-🌐 Live Demo
+## 🌐 Live Demo
 
 👉 https://bizpilot-ai.streamlit.app/
 
 ---
 
-🧠 What It Does
+## 🧠 What It Does
 
 BizPilot AI acts as a **central operating system for businesses**:
 
@@ -23,7 +23,7 @@ BizPilot AI acts as a **central operating system for businesses**:
 
 ---
 
-⚡ Key Features
+## ⚡ Key Features
 
 * 🔐 User Authentication (Owner / Manager / Employee)
 * 📊 Dashboard with real-time insights
@@ -34,7 +34,7 @@ BizPilot AI acts as a **central operating system for businesses**:
 
 ---
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 * Python
 * Streamlit
@@ -44,7 +44,7 @@ BizPilot AI acts as a **central operating system for businesses**:
 
 ---
 
-💡 Use Case
+## 💡 Use Case
 
 Designed for:
 
@@ -56,14 +56,14 @@ Designed for:
 
 ---
 
-📸 Screenshots
+## 📸 Screenshots
 
-<img width="1209" height="591" alt="Screenshot 2026-03-29 181306" src="https://github.com/user-attachments/assets/3ea7540e-0dcf-465a-b0a3-92a2517a9637" />
+<img width="1209" height="591" alt="Screenshot 2026-03-29 181306" src="https://github.com/user-attachments/assets/148f250c-d6ce-40d6-b834-e1fee00f8859" />
 
 
 ---
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 
 * Database integration (PostgreSQL)
 * API integrations (WhatsApp, Email automation)
@@ -72,8 +72,8 @@ Designed for:
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-**Himanshu Patel**
-AI Automation & Gen AI Systems Builder
+Himanshu Patel
+
 
