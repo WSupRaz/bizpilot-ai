@@ -1,106 +1,78 @@
-# 🚀 BizPilot AI – Business Operating System
+🚀 BizPilot AI — AI Business Operating System
 
-BizPilot AI is a full AI-powered Business Operating System designed to automate core business workflows like CRM, lead management, task tracking, and reporting.
+BizPilot AI is a **production-ready AI system** designed to automate business operations including CRM, task management, reporting, and workflows.
 
-This system replaces multiple tools with one intelligent platform that streamlines operations and reduces manual work.
-
----
-
-## 🔥 Key Features
-
-* 🔐 Role-Based Authentication (Owner, Manager, Employee)
-* 📊 Centralized Dashboard for Business Operations
-* 📈 Lead Management & Tracking System
-* ✅ Task Assignment & Workflow Automation
-* 📑 Reporting & Activity Logging
-* ⚙️ Modular & Scalable Architecture
+👉 Built to replace manual processes with intelligent automation.
 
 ---
 
-## 🧠 What Problem It Solves
+🌐 Live Demo
 
-Most businesses use multiple disconnected tools for operations.
-
-BizPilot AI:
-
-* Automates repetitive workflows
-* Reduces manual effort
-* Centralizes all operations
-* Improves efficiency and scalability
-
-This is built as a real-world system, not just a demo project.
+👉 https://bizpilot-ai.streamlit.app/
 
 ---
 
-## 🛠️ Tech Stack
+🧠 What It Does
+
+BizPilot AI acts as a **central operating system for businesses**:
+
+* Manage leads (CRM)
+* Automate tasks & workflows
+* Generate reports & insights
+* Role-based access for teams
+
+---
+
+⚡ Key Features
+
+* 🔐 User Authentication (Owner / Manager / Employee)
+* 📊 Dashboard with real-time insights
+* 🧾 CRM for lead tracking
+* ✅ Task Management System
+* 📈 Reports & analytics
+* ⚙️ Workflow automation system
+
+---
+
+🛠 Tech Stack
 
 * Python
 * Streamlit
 * Pandas
 * Plotly
-* APScheduler
-* JSON (Lightweight Data Storage)
+* JSON-based storage
 
 ---
 
-## 🚀 Live Demo
+💡 Use Case
 
-Coming Soon (Will be deployed via Streamlit Cloud)
+Designed for:
 
----
+* Small businesses
+* Agencies
+* Sales teams
 
-## 📂 Project Structure
-
-```bash
-bizpilot-ai/
-│
-├── app.py
-├── requirements.txt
-├── data/
-│   ├── users.json
-│   ├── leads.json
-│   ├── tasks.json
-│   └── reports.json
-```
+👉 Replace manual work with AI-powered systems
 
 ---
 
-## ⚙️ Installation & Setup
+📸 Screenshots
 
-```bash
-git clone https://github.com/YOUR_USERNAME/bizpilot-ai.git
-cd bizpilot-ai
-pip install -r requirements.txt
-streamlit run app.py
-```
-
----
-
-## 🔑 Demo Credentials
-
-* Owner → Rajan / owner123
-* Manager → Vikram / manager123
-* Employee → Amit / emp123
-
----
-
-## 📸 Screenshots
-
-<img width="886" height="608" alt="image" src="https://github.com/user-attachments/assets/3e075f0a-0eb0-4c5a-84ff-dd94b111de46" />
+<img width="1209" height="591" alt="Screenshot 2026-03-29 181306" src="https://github.com/user-attachments/assets/3ea7540e-0dcf-465a-b0a3-92a2517a9637" />
 
 
 ---
 
-## 💡 Future Improvements
+🚀 Future Improvements
 
-* AI-powered insights & analytics
-* Database integration (PostgreSQL / MongoDB)
-* API integrations (WhatsApp / Email automation)
-* Multi-user SaaS version
+* Database integration (PostgreSQL)
+* API integrations (WhatsApp, Email automation)
+* Advanced analytics dashboard
+* AI decision-making agents
 
 ---
 
-## 👨‍💻 Author
+👨‍💻 Author
 
 **Himanshu Patel**
 AI Automation & Gen AI Systems Builder
